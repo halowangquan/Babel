@@ -12,6 +12,7 @@ namespace ABPSingleDemo
         public override void PreInitialize()
         {
             Configuration.DefaultNameOrConnectionString = "Default";
+
         }
 
         public override void Initialize()
